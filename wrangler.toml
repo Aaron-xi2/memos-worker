@@ -9,8 +9,8 @@ run_worker_first = [
 
 [[d1_databases]]
 binding = "DB"
-database_id = "notes-db"
-database_name = "fea3b46b-5063-4e5a-aeaf-855ac6c00eda"
+database_id = "fea3b46b-5063-4e5a-aeaf-855ac6c00eda"
+database_name = "notes-db"
 
 [[kv_namespaces]]
 binding = "NOTES_KV"
